@@ -18,8 +18,8 @@
 1. 結束
 
 ## 使用方法
-1. 下載 HuayuTool.ahk 原始檔 (需安裝 AutoHotKey v2.1-alpha.1)。 
-1. [下載 HuayuTool.exe](HuayuTool/HuayuTool.exe) 執行檔直接使用。
+1. [下載 HuayuTool.ahk](HuayuTool.ahk) 原始檔 (需安裝 AutoHotKey v2.1-alpha.1)。 
+1. [下載 HuayuTool.exe](HuayuTool.exe) 執行檔直接使用。
 
 ## 贊助開發者
 如果您覺得這個工具不錯，[請不要吝嗇請我喝一杯咖啡](https://niko.soci.vip/donate) :)
